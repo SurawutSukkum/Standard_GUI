@@ -1,0 +1,11 @@
+D:\TEST PLC VsCode\TEST PLC VsCode V3\TEST PLC VsCode V3\bin\Debug\TEST PLC VsCode V3.exe.config
+D:\TEST PLC VsCode\TEST PLC VsCode V3\TEST PLC VsCode V3\bin\Debug\TEST PLC VsCode V3.exe
+D:\TEST PLC VsCode\TEST PLC VsCode V3\TEST PLC VsCode V3\bin\Debug\TEST PLC VsCode V3.pdb
+D:\TEST PLC VsCode\TEST PLC VsCode V3\TEST PLC VsCode V3\obj\Debug\TEST PLC VsCode V3.csproj.AssemblyReference.cache
+D:\TEST PLC VsCode\TEST PLC VsCode V3\TEST PLC VsCode V3\obj\Debug\TEST PLC VsCode V3.csproj.SuggestedBindingRedirects.cache
+D:\TEST PLC VsCode\TEST PLC VsCode V3\TEST PLC VsCode V3\obj\Debug\TEST_PLC_VsCode_V3.Page1.resources
+D:\TEST PLC VsCode\TEST PLC VsCode V3\TEST PLC VsCode V3\obj\Debug\TEST_PLC_VsCode_V3.Properties.Resources.resources
+D:\TEST PLC VsCode\TEST PLC VsCode V3\TEST PLC VsCode V3\obj\Debug\TEST PLC VsCode V3.csproj.GenerateResource.cache
+D:\TEST PLC VsCode\TEST PLC VsCode V3\TEST PLC VsCode V3\obj\Debug\TEST PLC VsCode V3.csproj.CoreCompileInputs.cache
+D:\TEST PLC VsCode\TEST PLC VsCode V3\TEST PLC VsCode V3\obj\Debug\TEST PLC VsCode V3.exe
+D:\TEST PLC VsCode\TEST PLC VsCode V3\TEST PLC VsCode V3\obj\Debug\TEST PLC VsCode V3.pdb
